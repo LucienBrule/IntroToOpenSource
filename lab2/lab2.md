@@ -49,19 +49,28 @@ I think it currently has a restrictive liscence because they haven't flushed out
 develop for the device. It could also be vaporware \_(",)_/
 
 6.  Think of an example project. Pick a license (as a group) using the [LICENSE chooser by Github](http://choosealicense.com/).
-- Our example project could be Dogr, tinder for dogs.
+- Our example project could be Dogr, tinder for dogs. As we're laiszez faire people,  we're going to release the core of our software with the MIT liscence. Hopefully this will encourage more market penetration into other tinder for *.
 
 7.  Read these licenses  GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use [tldrlegal](https://tldrlegal.com/license/)
-
+- GPL would be better for the common good because it encourages a societal shift towards copyleftism.
+- LGPL is a good compromise for buisnesses who are relaiant on proprietary software but want to use GPL software in their software stacks.
+- BSD seems to be best for developers as it provides many benefits without much more afterthought. It waives legal liability and doesn't require derivitives to do anything.
+- 
 8.  Create a repository and [choose a license](https://github.com/blog/1530-choosing-an-open-source-license)
-  
+- Last year I and my cass mates Jon Caicedo and Max Wang made a social media app call [UnknownTo](https://github.com/LucienBrule/unknowntome/blob/master/LICENSE) , it's liscenced under the MIT liscence.
+
 9.  Write five sentences about choosing a project to work in this course and  who will be users/customers  and what license will you choose.
+- We probably won't have custromers, we'll have users. The users we do have will probably be RPI students. So that dictates that we'll make somehting that markets towards more nerdy people, or we'll make a developer tool. We'll end up using a permissive liscence like the MIT liscenece.
 
 10.  Take 5 projects from [Observatory](http://rcos.io/projects) or [past RCOS Projects](https://rcos.io/projects/past) - create a table which project has which license. for example:
 
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/wtg/shuttle_tracking_2/blob/master/LICENSE | YES | MIT
+https://github.com/Submitty/Submitty/blob/master/LICENSE.md | YES | BSD
+https://rcos.io/projects/deepremix/deepremix/profile | NO | N/A
+https://github.com/ametrocavich/WeirdSideofYouTube/blob/master/LICENSE | YES | MIT
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

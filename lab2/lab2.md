@@ -3,10 +3,10 @@ By Lucien Brulé on 08SEPT16
 
 1. Read the [four criteria for Free Software](https://www.gnu.org/philosophy/free-sw.html)
 summary: (users have the freedom to...)
-- run the program as they wish, for any purpose.
-- study how the program works and modify it as they see fit.
-- redistribute unmodified copies.
-- redistribute derivitive works.
+ - run the program as they wish, for any purpose.
+ - study how the program works and modify it as they see fit.
+ - redistribute unmodified copies.
+ - redistribute derivitive works.
 2. Why is it important to choose a LISCENCE?
  - As we learned in class from the General Manager and Director of the [Open Source Initiative](https://opensource.org/), [Patrick Masson](https://twitter.com/massonpj),
  it is important to choose a LISCENCE for at least two reasons. By default in the US all unliscenced work is distributed as 

@@ -48,4 +48,20 @@ summary: (users have the freedom to...)
 I think it currently has a restrictive liscence because they haven't flushed out enough architectural descisions yet to allow the community to
 develop for the device. It could also be vaporware \_(",)_/
 
+6.  Think of an example project. Pick a license (as a group) using the [LICENSE chooser by Github](http://choosealicense.com/).
+- Our example project could be Dogr, tinder for dogs.
+
+7.  Read these licenses  GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use [tldrlegal](https://tldrlegal.com/license/)
+
+8.  Create a repository and [choose a license](https://github.com/blog/1530-choosing-an-open-source-license)
+  
+9.  Write five sentences about choosing a project to work in this course and  who will be users/customers  and what license will you choose.
+
+10.  Take 5 projects from [Observatory](http://rcos.io/projects) or [past RCOS Projects](https://rcos.io/projects/past) - create a table which project has which license. for example:
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
